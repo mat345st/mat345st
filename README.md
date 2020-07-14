@@ -1,5 +1,12 @@
-### Hi there 👋
+### About me
+#### Welcome to my Github Profile.
 
+I'm a self-tought Developer, using mostly Java for REST-APIs
+
+At the moment I'm available for hiring for small or medium size projects.
+
+#### I'm working on:
+[NetherGames - One of the leading Minecraft: Bedrock Edition Server Networks](https://ngmc.co)
 <!--
 **mat345st/mat345st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
