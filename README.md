@@ -1,7 +1,7 @@
 ### About me
 #### Welcome to my Github Profile.
 
-I'm a self-tought Developer, using mostly Java for REST-APIs
+I'm a self-tought Developer, using mostly Java for Discord Bots.
 
 At the moment I'm available for hiring for small or medium size projects.
 
